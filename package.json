@@ -33,7 +33,7 @@
     "react-router-dom": "5.2.0",
     "react-virtualized": "9.22.3",
     "shortid": "2.2.16",
-    "uuid": "8.3.2",
+    "uuid": "14.0.0",
     "xstate": "4.16.0",
     "yup": "0.32.8"
   },
